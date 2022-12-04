@@ -1,4 +1,4 @@
-Pet project is to improve front end development skils.
+This Pet project is to improve front end development skills, including adaptive layout.
 Technologies:
   - HTML
   - CSS
