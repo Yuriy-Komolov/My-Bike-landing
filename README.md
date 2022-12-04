@@ -5,4 +5,4 @@ Technologies:
   - SCSS
   - JS
   - BEM methodology
-- [DEMO LINK](https://yuriy-komolov.github.io/My-Bike-landing/
+- [DEMO LINK](https://yuriy-komolov.github.io/My-Bike-landing/)
